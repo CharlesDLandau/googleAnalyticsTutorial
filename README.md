@@ -11,7 +11,7 @@ Python >= 3.6
 Clone this repo:
 
 ```
-
+git clone https://github.com/CharlesDLandau/googleAnalyticsTutorial.git
 
 ```
 
